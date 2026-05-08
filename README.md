@@ -199,7 +199,7 @@ project/
 ### Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone <https://github.com/HareemFatima5/ViT-Based-Smart-Plant-Health-Monitoring-System/tree/main>
 cd project-folder
 ```
 
