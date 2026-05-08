@@ -12,7 +12,7 @@ The system simultaneously performs:
 
 The framework is designed to improve agricultural decision-making by providing both **high accuracy** and **human-understandable explanations**.
 
----
+
 
 ## Problem Statement
 Traditional plant disease detection systems often suffer from:
@@ -25,7 +25,7 @@ Traditional plant disease detection systems often suffer from:
 
 This project addresses these limitations using a unified explainable multi-head architecture.
 
----
+
 
 ## Objectives
 
@@ -36,7 +36,6 @@ This project addresses these limitations using a unified explainable multi-head 
 - Generate actionable treatment recommendations
 - Build a dashboard-ready inference pipeline
 
----
 
 ## Dataset
 
@@ -59,11 +58,9 @@ This project addresses these limitations using a unified explainable multi-head 
 
 ## System Architecture
 
-> **[ INSERT ARCHITECTURE DIAGRAM HERE ]**
+![Architecture Diagram](assets/architecture.png)
 
-<br><br><br><br><br><br><br><br>
 
----
 
 ## Proposed Framework
 
@@ -77,7 +74,7 @@ The complete pipeline consists of:
 6. **Treatment Recommendation Engine**
 7. **Dashboard Visualization**
 
----
+
 
 ## Model Architecture
 
@@ -99,7 +96,6 @@ The model uses a weighted composite loss:
 Loss = 0.3L_{crop} + 0.4L_{disease} + 0.3L_{severity}
 \]
 
----
 
 ## Explainable AI Module
 
@@ -117,7 +113,7 @@ Benefits:
 - Helps farmers interpret predictions
 - Highlights infected regions visually
 
----
+
 
 ## Results
 
@@ -130,7 +126,7 @@ Benefits:
 | Performance Gain | +1.30 pp |
 | Parameters | 85.8M |
 
----
+
 
 ## Literature Comparison
 
@@ -155,7 +151,7 @@ The inference workflow includes:
 5. Attention Visualization
 6. Recommendation Generation
 
----
+
 
 ## Key Contributions
 
@@ -164,9 +160,9 @@ The inference workflow includes:
 - Severity-aware predictions
 - Recommendation engine
 - Superior benchmark performance
-- Dashboard-ready deployment pipeline
+- Dashboard ready deployment pipeline
 
----
+
 
 ## Technologies Used
 
@@ -196,7 +192,7 @@ project/
 └── requirements.txt
 ```
 
----
+
 
 ## How to Run
 
@@ -239,13 +235,11 @@ Open the notebook file and execute all cells.
 - Misbah Shaheen
 - Attiqa Bano
 
----
 
 ## License
 
 This project is licensed under the MIT License.
 
----
 
 ## Acknowledgments
 
