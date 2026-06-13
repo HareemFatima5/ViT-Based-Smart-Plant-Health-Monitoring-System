@@ -197,9 +197,9 @@ A separation of **+0.3000** confirms that ViT attention maps carry quantitativel
 
 
 
+## Deployment
 
-
-
+![Deployment](assets/architecture.png)
 
 ## Future Improvements
 
@@ -209,7 +209,6 @@ A separation of **+0.3000** confirms that ViT attention maps carry quantitativel
 - Federated learning integration
 - Multi-language farmer dashboard
 
----
 
 ## Authors
 
