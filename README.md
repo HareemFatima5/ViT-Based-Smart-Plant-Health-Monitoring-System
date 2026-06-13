@@ -154,9 +154,9 @@ Attention Rollout propagates information flow from the `[CLS]` token across all 
 
 | Score Range | Category | Recommended Action |
 |-------------|----------|---------------------|
-| < 0.20 | Mild | Monitor; preventive spray |
-| 0.20 – 0.50 | Moderate | Targeted treatment required |
-| > 0.50 | Severe | Immediate intervention needed |
+| < 0.15 | Mild | Monitor; preventive spray |
+| 0.15 – 0.35 | Moderate | Targeted treatment required |
+| > 0.35 | Severe | Immediate intervention needed |
 
 ### Severity Results (200 test images)
 
