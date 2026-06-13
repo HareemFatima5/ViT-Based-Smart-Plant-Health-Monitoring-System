@@ -199,7 +199,7 @@ A separation of **+0.3000** confirms that ViT attention maps carry quantitativel
 
 ## Deployment
 
-![Deployment](assets/architecture.png)
+![Deployment](assets/deployment.png)
 
 ## Future Improvements
 
