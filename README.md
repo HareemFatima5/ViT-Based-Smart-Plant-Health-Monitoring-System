@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a Vision Transformer (ViT-B/16) based plant health monitoring system evaluated on the PlantCity dataset — a real field-collected multi-crop leaf disease dataset from Pakistan.
+This project presents a Vision Transformer (ViT-B/16) based plant health monitoring system evaluated on the PlantCity dataset, a real field-collected multi-crop leaf disease dataset from Pakistan.
 
 The system performs:
 - Multi-class plant disease classification (52 classes)
